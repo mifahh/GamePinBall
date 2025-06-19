@@ -1,2 +1,2 @@
 # GamePinBall
-Make Pinball Game from Agate Physics Courses made with Unity Engine. Compatible for Windows
+This Pinball Game is my submission on Agate Physics Courses made with Unity Engine. Compatible for Windows
